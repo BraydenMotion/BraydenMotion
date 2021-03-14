@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @BraydenMotion
-- 👀 I’m interested in Kotlin, Compiler theory, AI
-- 🌱 I’m currently learning how to build my own programming language
-- 💞️ I’m looking to collaborate on *anything*
-- 📫 How to reach me - leave an issue in this [repository](Https://github.com/BraydenMotion/BraydenMotion/) or send me an email
+# Hi, I'm Brayden 👋
 
-<!---
-BraydenMotion/BraydenMotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+
+
+## 🛠 Teck Stack
+
+### Languages
+
+|[<img src="./images/kotlin.svg" width="48">](https://kotlinlang.org)|[<img src="./images/java.svg" width="48">](https://www.java.com)|[<img src="./images/javascript.svg" width="48">](https://www.javascript.com)|[<img src="./images/html.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)|[<img src="./images/css.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)|
+|---|---|---|---|---|
+
+### Tools
+
+|[<img src="./images/intellij.svg" width="48">](https://www.jetbrains.com/idea/)|[<img src="./images/gradle.svg" width="48">](https://gradle.org)|[<img src="./images/git.svg" width="48">](https://git-scm.com)|[<img src="./images/github.svg" width="48">](https://github.com)|[<img src="./images/gimp.svg" width="48">](https://www.gimp.org)|
+|---|---|---|---|---|
