@@ -8,7 +8,7 @@
 
 ### Languages
 
-|![](./images/kotlin.svg)|![<img src="./images/java.svg" width="48">](https://www.java.com)|[<img src="./images/javascript.svg" width="48">](https://www.javascript.com)|[<img src="./images/html.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)|[<img src="./images/css.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)|
+|![](/images/kotlin.svg)|![](/images/java.svg)|![](./images/javascript.svg)|![](./images/html.svg)|![](./images/css.svg)|
 |---|---|---|---|---|
 
 ### Tools
