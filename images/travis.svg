@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="travis.svg"
+   width="48"
+   height="48"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.28125"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#bb2031"
+     d="m 14.829268,12.097561 h 7.024391 v 23.804878 h -3.121952 v 4.292683 h 10.92683 V 35.512195 H 26.926829 V 11.707317 h 7.414634 v 3.512195 h 3.902439 V 8.195122 H 10.536585 v 7.02439 h 4.292683 z M 46.907317,0 H 1.573073 C 0.782439,0 0,0.478439 0,1.258537 v 45.32839 C 0,47.367415 0.782439,48 1.573073,48 H 46.907317 C 47.697951,48 48,47.367415 48,46.586927 V 1.258537 C 48,0.478439 47.697951,0 46.907317,0 Z M 40.585366,17.560976 H 32.390244 V 14.04878 h -3.512195 v 18.731708 h 3.512195 v 9.365853 H 16.780488 v -8.975609 h 2.341463 V 14.439024 h -2.341463 v 3.121952 H 7.804878 V 5.853659 h 32.780488 z"
+     id="path2"
+     style="stroke-width:0.390244" />
+</svg>
